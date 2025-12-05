@@ -1,6 +1,8 @@
 # Tailwind Formatter Changelog
 
 ## [Unreleased]
+### Changed
+- Removed upper build number limit to support all future IDE versions including RubyMine 2025.2.5 and beyond
 
 ## [2.0.6]
 ### Added

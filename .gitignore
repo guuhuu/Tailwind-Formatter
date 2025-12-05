@@ -3,3 +3,7 @@
 .idea/jarRepositories.xml
 .qodana
 build
+**/node_modules
+.DS_Store
+.intellijPlatform
+!.intellijPlatform/self-update.lock
